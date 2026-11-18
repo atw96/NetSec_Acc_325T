@@ -1,0 +1,11 @@
+build/
+.cache/
+.Xil/
+.hbs/
+*.log
+*.jou
+*.str
+*.bit
+*.ltx
+*.mcs
+__pycache__/
